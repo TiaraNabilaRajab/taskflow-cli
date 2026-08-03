@@ -74,12 +74,6 @@
 =====================================================
 Pilih menu:
 ```
-
-> 🖼️ *Screenshot placeholder — tambahkan screenshot aplikasi Anda di sini:*
->
-> ![Dashboard](docs/screenshots/dashboard.png)
-> ![Task Table](docs/screenshots/task-table.png)
-
 ## 📁 Struktur Folder
 
 ```text
@@ -96,7 +90,6 @@ taskflow-cli/
 ├── tests/
 │   └── test_task_manager.py  # 22 unit test (unittest)
 ├── README.md
-├── requirements.txt     # Kosong — tanpa dependensi eksternal
 └── .gitignore
 ```
 
